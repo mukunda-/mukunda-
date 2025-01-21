@@ -6,19 +6,19 @@ My [2020 Portfolio](https://github.com/mukunda-/portfolio) tells a better story 
 
 ## Recent Projects
 * [nanopaint](https://github.com/mukunda-/nanopaint) - A work in progress, making a collaborative canvas with infinite resolution. Paint tiny images with atoms!
-* [mysite2](https://github.com/mukunda-/mysite2) - My 2025 personal web site.
+* [mysite2](https://github.com/mukunda-/mysite2) - A modern 2025 revision of my personal website and blog. The pages are served by a Go app via FastCGI. [Read more about it on my blog](http://localhost/blog/2025/new-blog-smell-again).
 
 ## SourceMod
 <img align="right" width="200" src="https://github.com/user-attachments/assets/bb6a7b47-251a-4550-9b21-6294ca5fb258" alt="Terrorists playing Mareo">
 Around 2013-2014 I was part of an online community that hosted Counter-Strike: Go and TF2 servers. We had tons of fun making mods.
 
 * [smes](https://github.com/mukunda-/smes) - It's not a Super Nintendo; it's the SourceMod Entertainment System! It's playable _in the game_. Includes support for two player controllers, a console, and cartridge models.
-* [vg-supermareo](https://github.com/mukunda-/vg-supermareo) - A fun Mario minigame for the SMES.
+* [vg-supermareo](https://github.com/mukunda-/vg-supermareo) - A fun Mario minigame for the SMES. Features a single fast-paced level (this is designed to be played and hopefully completed in a single match of the game). One or two players can play, with the two player mode requiring both to keep up!
 
 <img align="right" width="200" src="https://github.com/user-attachments/assets/d4cbd4ef-e9e4-478c-9dbf-c020954868cc" alt="Tetris: Source">
 
-* [vg-tetris](https://github.com/mukunda-/vg-tetris) - A fast-paced Tetris game for the SMES. Includes Sprint mode (1-player) and Duel mode (2-player).
-* [rxg-plugins](https://github.com/mukunda-/rxg-plugins) - A collection of fun and administrative plugins that we wrote for our servers. Imagine being a visible ghost from Super Mario World to pull players around if they are misbehaving.
+* [vg-tetris](https://github.com/mukunda-/vg-tetris) - A fast-paced Tetris game for the SMES. Includes Sprint mode (1-player) and Duel mode (2-player). Trust me, it's fun.
+* [rxg-plugins](https://github.com/mukunda-/rxg-plugins) - A collection of fun and administrative plugins that we wrote for our servers. Imagine being a visible ghost from Super Mario World to pull players around if they are misbehaving. My favorite is the [sm_doom](https://github.com/mukunda-/rxg-plugins/blob/fe6c6b75d3337a30d4b134102c7637a2f2b8f7cb/admin-tools/doom.sp#L90) command which essentially sentences a player to a not-so-swift and screaming hellish end. We used that for players found cheating.
 
 ## SNES
 <img src="https://github.com/user-attachments/assets/8e4a9e0c-574d-42c3-822f-5a192c1e6431" alt="Skipp and Friends" align="right" width="200">
