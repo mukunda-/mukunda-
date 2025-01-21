@@ -51,6 +51,6 @@ Other older games where I'm not sure where the source code is:
 * [Adventurer](https://mukunda.com/projects.html) - A platformer about collecting rings and moving red bricks.
 
 ---
-Hope you find something neat. Most projects are open to contributions.
+Much more exists in here, and I'll add more as I discover it. Hope you find something neat. Most projects are open to contributions.
 
 <p align="center"><a href="https://mukunda.com">mukunda.com</a> | <a href="https://linkedin.com/in/mukunda-johnson/">LinkedIn</a> | <a href="https://x.com/_mukunda">Twitter/X</a></p>
