@@ -18,7 +18,7 @@ Around 2013-2014 I was part of an online community that hosted Counter-Strike: G
 <img align="right" width="200" src="https://github.com/user-attachments/assets/d4cbd4ef-e9e4-478c-9dbf-c020954868cc" alt="Tetris: Source">
 
 * [vg-tetris](https://github.com/mukunda-/vg-tetris) - A fast-paced Tetris game for the SMES. Includes Sprint mode (1-player) and Duel mode (2-player). Trust me, it's fun.
-* [rxg-plugins](https://github.com/mukunda-/rxg-plugins) - A collection of fun and administrative plugins that we wrote for our servers. Imagine being a visible ghost from Super Mario World to pull players around if they are misbehaving. My favorite is the [sm_doom](https://github.com/mukunda-/rxg-plugins/blob/fe6c6b75d3337a30d4b134102c7637a2f2b8f7cb/admin-tools/doom.sp#L90) command which essentially sentences a player to a not-so-swift and screaming hellish end. We used that for players found cheating.
+* [rxg-plugins](https://github.com/mukunda-/rxg-plugins) - A collection of fun and administrative plugins that we wrote for our servers. Imagine being a visible ghost from Super Mario World to pull players around if they are misbehaving. My favorite is the [sm_doom](https://github.com/mukunda-/rxg-plugins/blob/fe6c6b75d3337a30d4b134102c7637a2f2b8f7cb/admin-tools/doom.sp#L90) command which essentially sentences a player to a not-so-swift and screaming end. We used that for players found cheating.
 
 ## SNES
 <img src="https://github.com/user-attachments/assets/8e4a9e0c-574d-42c3-822f-5a192c1e6431" alt="Skipp and Friends" align="right" width="200">
