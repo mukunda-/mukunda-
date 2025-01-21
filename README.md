@@ -2,11 +2,11 @@
 
 Hi 👋 I'm a computer enjoyer. This repository contains projects spanning to 2007. Sources before that are lost on defunct zip disks or CDs somewhere. If you have a question about anything, feel free to email!
 
-My [2020 Portfolio](https://github.com/mukunda-/portfolio) tells a better story than this page, so have a look there if you have some free time.
+My [2020 Portfolio](https://github.com/mukunda-/portfolio) tells a better story than this page, so have a look there if you have some free time. The following is a highlighted handful of my projects.
 
 ## Recent Projects
 * [nanopaint](https://github.com/mukunda-/nanopaint) - A work in progress, making a collaborative canvas with infinite resolution. Paint tiny images with atoms!
-* [mysite2](https://github.com/mukunda-/mysite2) - A modern 2025 revision of my personal website and blog. The pages are served by a Go app via FastCGI. [Read more about it on my blog](http://localhost/blog/2025/new-blog-smell-again).
+* [mysite2](https://github.com/mukunda-/mysite2) - A modern 2025 revision of my personal website and blog. The pages are served by a Go app via FastCGI, very friendly with shared-hosting environments. [Read more about it on my blog](http://localhost/blog/2025/new-blog-smell-again).
 
 ## SourceMod
 <img align="right" width="200" src="https://github.com/user-attachments/assets/bb6a7b47-251a-4550-9b21-6294ca5fb258" alt="Terrorists playing Mareo">
@@ -51,6 +51,6 @@ Other older games where I'm not sure where the source code is:
 * [Adventurer](https://mukunda.com/projects.html) - A platformer about collecting rings and moving red bricks.
 
 ---
-Much more exists in here, and I'll add more as I discover it. Hope you find something neat. Most projects are open to contributions.
+Much more exists in here, and I'll add more as I discover it. Hope you find something neat. Most projects are open to contributions with permissive licensing.
 
 <p align="center"><a href="https://mukunda.com">mukunda.com</a> | <a href="https://linkedin.com/in/mukunda-johnson/">LinkedIn</a> | <a href="https://x.com/_mukunda">Twitter/X</a></p>
