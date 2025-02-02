@@ -6,7 +6,7 @@ My [2020 Portfolio](https://github.com/mukunda-/portfolio) tells a better story 
 
 ## Recent Projects
 * [nanopaint](https://github.com/mukunda-/nanopaint) - A work in progress, making a collaborative canvas with infinite resolution. Paint tiny images with atoms!
-* [mysite2](https://github.com/mukunda-/mysite2) - A modern 2025 revision of my personal website and blog. The pages are served by a Go app via FastCGI, very friendly with shared-hosting environments. [Read more about it on my blog](http://localhost/blog/2025/new-blog-smell-again).
+* [mysite2](https://github.com/mukunda-/mysite2) - A modern 2025 revision of my personal website and blog. The pages are served by a Go app via FastCGI, very friendly with shared-hosting environments. [Read more about it on my blog](http://mukunda.com/blog/2025/new-blog-smell-again).
 
 ## SourceMod
 <img align="right" width="200" src="https://github.com/user-attachments/assets/bb6a7b47-251a-4550-9b21-6294ca5fb258" alt="Terrorists playing Mareo">
